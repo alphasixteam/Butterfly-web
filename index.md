@@ -1,37 +1,14 @@
-## The _Butterfly_ project
+## Il progetto _Butterfly_
 
-You can use the [editor on GitHub](https://github.com/alphasixteam/Butterfly-web/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+**Butterfly** è un software che permette la configurazione dell'inoltro dei messaggi da parte di **Redmine** e **Gitlab** agli utenti tramite **Telegram** ed **Email**, passando per il Broker **Apache Kafka** che comunica con un **Gestore Personale** che contiene tutte le preferenze degli utenti e quindi la logica degli inoltri. Questo prodotto è stato sviluppato come progetto di gruppo per il progetto della materia **Ingegneria del Software** dell'Anno Accademico 2018/2019 dei professori [Tullio Vardanega](https://www.math.unipd.it/~tullio/) e [Riccardo Cardin](https://www.math.unipd.it/~rcardin/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Il gruppo di lavoro
 
-### Markdown
+Il gruppo che lo ha sviluppato si chiama **AlphaSix** ed è composto da:
+- [Ciprian Voinea](https://www.linkedin.com/in/cvoinea/)
+- [Timoty Granziero]()
+- [Laura Cameran](mailto:lauracameran@gmail.com)
+- [Samuele Gardin](www.linkedin.com/in/samuele-gardin)
+- [Matteo Marchiori](www.linkedin.com/in/matteo-marchiori-882143bb)
+- [Nicola Carlesso](mailto:nicolacarlesso@outlook.it)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alphasixteam/Butterfly-web/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
