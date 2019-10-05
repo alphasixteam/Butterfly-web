@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## The _Butterfly_ project
+
+
 
 You can use the [editor on GitHub](https://github.com/alphasixteam/Butterfly-web/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
