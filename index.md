@@ -14,22 +14,22 @@ Il gruppo che lo ha sviluppato si chiama **AlphaSix** ed è composto da:
 ## Documentazione presentata
 Di seguito i file zip contenenti le versioni finali delle documentazioni presentate alle consegne:
 ### Revisione dei Requisiti (RR)
-- [Documenti](){:target="_blank"}
-- [Presentazione](){:target="_blank"}
-- [Valutazione](){:target="_blank"}
+- [Documenti](./){:target="_blank"}
+- [Presentazione](https://prezi.com/kqwqsjv63dpt/){:target="_blank"}
+- [Valutazione]("./AlphaSix RR.pdf"){:target="_blank"}
 ### Revisione di Progettazione (RP)
 - [Documenti](){:target="_blank"}
-- [Presentazione](){:target="_blank"}
-- [Valutazione](){:target="_blank"}
+- [Presentazione](https://prezi.com/ilt09p0gv9f7/){:target="_blank"}
+- [Valutazione]("./AlphaSix RP.pdf"){:target="_blank"}
 ### Proof of Concept (PoC)
 - [Presentazione](){:target="_blank"}
 ### Revisione di Qualifica (RQ)
 - [Documenti](){:target="_blank"}
-- [Presentazione](){:target="_blank"}
-- [Valutazione](){:target="_blank"}
+- [Presentazione](https://prezi.com/yc50-tnk2qq2/){:target="_blank"}
+- [Valutazione]("./AlphaSix RQ.pdf"){:target="_blank"}
 ### Product Baseline
 - [Presentazione](){:target="_blank"}
 - [Allegato tecnico](){:target="_blank"}
 ### Revisione di Accettazione (RA)
 - [Documenti](){:target="_blank"}
-- [Presentazione](){:target="_blank"}
+- [Presentazione](https://prezi.com/5w1ag-i3wypt/){:target="_blank"}
