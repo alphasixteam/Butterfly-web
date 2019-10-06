@@ -16,7 +16,7 @@ Di seguito i file zip contenenti le versioni finali delle documentazioni present
 ### Revisione dei Requisiti (RR)
 - [Documenti](./){:target="_blank"}
 - [Presentazione](https://prezi.com/kqwqsjv63dpt/){:target="_blank"}
-- [Valutazione]("./AlphaSix RR.pdf"){:target="_blank"}
+- [Valutazione](./AlphaSix RR.pdf){:target="_blank"}
 ### Revisione di Progettazione (RP)
 - [Documenti](){:target="_blank"}
 - [Presentazione](https://prezi.com/ilt09p0gv9f7/){:target="_blank"}
