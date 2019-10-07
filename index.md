@@ -6,7 +6,7 @@ Il progetto completo è stato pubblicato interamente alla seguente repository: [
 Il gruppo che lo ha sviluppato si chiama **AlphaSix** ed è composto da:
 - [Ciprian Voinea](https://www.linkedin.com/in/cvoinea/){:target="_blank"}
 - [Timoty Granziero](){:target="_blank"}
-- [Laura Cameran](mailto:lauracameran@gmail.com){:target="_blank"}
+- [Laura Cameran](https://www.linkedin.com/in/laura-cameran){:target="_blank"}
 - [Samuele Gardin](www.linkedin.com/in/samuele-gardin){:target="_blank"}
 - [Matteo Marchiori](www.linkedin.com/in/matteo-marchiori-882143bb){:target="_blank"}
 - [Nicola Carlesso](mailto:nicolacarlesso@outlook.it){:target="_blank"}
